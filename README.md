@@ -18,4 +18,6 @@ For those interested in the code, refer to [Analysis_Code.Rmd](./Analysis_Code.R
 
 For those interested in the output of the code (as a pdf), refer to [Analysis_Output.pdf](./Analysis_Output.pdf).
 
+Lastly, if you're interested in how the data was scraped and transformed to per game stats, refer to [Data Scraping.Rmd](./Data Scraping.Rmd). Or, you can look into the [full_data.csv](Datasets/full_data.csv) to look at the data used in our models. All other datasets are either subsets of this, or converted to either per game stats ([pergame_stats_fullsub.csv](Datasets/pergame_stats_fullsub.csv)) or ranked stats ([ranked_fullsub.csv](Datasets/ranked_fullsub.csv) 
+
 Anyways, hope you enjoyed this!
