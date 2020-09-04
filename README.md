@@ -5,7 +5,7 @@ Hi everyone, and welcome to my first project!
 
 The conglomeration of files may seem daunting at first, but this explanation will hopefully cover all your questions.
 
-This project first came about when Samuel In (https://linktr.ee/samuelin?fbclid=IwAR1HS47i7sVsvO7E8OKT5EKpV6zQNXHnvsK-S8ZfZjwZUcqwc1i3tInr-5E) asked me if I could figure out a way to predict the World Series champions based off how much a team spent on their players. While I never got arond to answering his question, I decided to try and predict what teams would make the playoffs instead. Here are the key questions that to address in this project:
+This project first came about when [Samuel In](https://linktr.ee/samuelin?fbclid=IwAR1HS47i7sVsvO7E8OKT5EKpV6zQNXHnvsK-S8ZfZjwZUcqwc1i3tInr-5E) asked me if I could figure out a way to predict the World Series champions based off how much a team spent on their players. While I never got arond to answering his question, I decided to try and predict what teams would make the playoffs instead. Here are the key questions that to address in this project:
 
 1. What models, with the best accuracy, precision, recall, and F1 score, would perform the best at predicting which teams made the playoffs?
 2. Do models perform better when trained on the raw, per game statistics, or perform better using ranked statistics compared over each season?
